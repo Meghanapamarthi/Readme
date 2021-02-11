@@ -13,3 +13,10 @@ unordered list
   - python2
     - python 3
  - django
+--------------------------------------
+ordered list
+1. cse
+2. IT  
+    a.sec-1  
+    b.sec-2  
+3. ECE
